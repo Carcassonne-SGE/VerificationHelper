@@ -16,43 +16,43 @@
         <dependency>
             <groupId>com.github.Carcassonne-SGE</groupId>
             <artifactId>Carcassonne-Environment</artifactId>
-            <version>v10</version>
+            <version>main-SNAPSHOT</version>
         </dependency>
 
         <dependency>
-            <groupId>com.github.Carcassonne-SGE.AgentNaiveMCTS</groupId>
+            <groupId>com.github.Carcassonne-SGE.AgentNaivMCTS</groupId>
             <artifactId>Agent-Naive</artifactId>
-            <version>v10</version>
+            <version>main-SNAPSHOT</version>
         </dependency>
 
         <dependency>
-            <groupId>com.github.Carcassonne-SGE.AgentNaiveMCTS</groupId>
+            <groupId>com.github.Carcassonne-SGE.AgentNaivMCTS</groupId>
             <artifactId>Agent-Naive-Ensemble</artifactId>
-            <version>v10</version>
+            <version>main-SNAPSHOT</version>
         </dependency>
 
         <dependency>
             <groupId>com.github.Carcassonne-SGE.AgentHeuristicMCTS</groupId>
             <artifactId>Agent-Naive-Heuristic</artifactId>
-            <version>v10</version>
+            <version>main-SNAPSHOT</version>
         </dependency>
 
         <dependency>
             <groupId>com.github.Carcassonne-SGE.AgentHeuristicMCTS</groupId>
             <artifactId>Agent-Naive-Heuristic-Ensemble</artifactId>
-            <version>v10</version>
+            <version>main-SNAPSHOT</version>
         </dependency>
 
         <dependency>
             <groupId>com.github.Carcassonne-SGE.AgentHeuristicMCTS</groupId>
             <artifactId>Agent-Greedy-Heuristic</artifactId>
-            <version>v10</version>
+            <version>main-SNAPSHOT</version>
         </dependency>
 
         <dependency>
             <groupId>com.github.Carcassonne-SGE</groupId>
             <artifactId>AgentAdaptiveV5</artifactId>
-            <version>v10</version>
+            <version>main-SNAPSHOT</version>
         </dependency>
 
         <dependency>
@@ -72,7 +72,7 @@
         <dependency>
             <groupId>com.github.Carcassonne-SGE.EasyBitPacking</groupId>
             <artifactId>bitpacking-annotation</artifactId>
-            <version>v10</version>
+            <version>main-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
